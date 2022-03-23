@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/client-combined-3.141.59.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/guava-25.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/jsoup-1.12.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/okhttp-3.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/okio-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Selenium/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
